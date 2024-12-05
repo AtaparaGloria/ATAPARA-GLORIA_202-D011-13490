@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: pink; 
+    background-size: cover;
+    background-attachment: fixed;
+    background-image: url(kbkuot.jpg);
+    image.png{
+        border-radius: 50px;
+        width: 100px;
+        height: 100px;
+        text-align: left;
+    }
+
+    
+}
+h1 {
+    color: red;
+    font-size: medium;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: normal;
+    text-align: left;
+}
+
+.navbar-brand img {
+    margin-right: 10px;
+}
+
+.link {
+    color: white;
+    padding-left: 5px;
+
+}
+.link:hover {
+    color: white;
+}
+
+footer p {
+    margin: 0;
+}
+.custom-navbar {
+    background-color: red;
+}
+#navbarNav{
+    background-color:rgb(6, 164, 237)
+} 
+    #navbar-background {
+        background-color: #F0F0F0; 
+        color: #333; 
+    }
+    footer {
+        padding: 5px;
+    }
+    footer {
+        font-size: 20px;
+    }
+  
+    
+
+
